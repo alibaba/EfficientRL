@@ -1,0 +1,4 @@
+vllm>=0.11.0
+transformers>=4.57.0
+math-verify>=0.8.0
+latex2sympy2-extended>=1.10.0
